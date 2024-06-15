@@ -13,6 +13,7 @@ target/
 *.ipr
 
 /out
+src\main\resources\META-INF\MANIFEST.MF
 
 ### Eclipse ###
 .apt_generated
@@ -38,3 +39,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+src/main/resources/META-INF/MANIFEST.MF
